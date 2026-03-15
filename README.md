@@ -83,8 +83,8 @@ siem/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/siem-log-analyzer.git
-cd siem-log-analyzer
+git clone https://github.com/Bhuvish04/siem.analyzer.git
+cd siem.analyzer
 ```
 
 ### 2. Backend setup
